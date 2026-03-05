@@ -62,8 +62,8 @@ Advanced React.js patterns, backend optimization, containerization with Docker &
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/adarsh-singhdev"><img src="https://github-readme-stats.vercel.app/api?username=adarsh-singhdev&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="adarsh-singhdev's GitHub stats" /></a>
+<a href="http://www.github.com/adarsh-singhdev"><img src="https://github-readme-stats.vercel.app/api?username=h-adarsh&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="adarsh-singhdev's GitHub stats" /></a>
 
-<a href="http://www.github.com/adarsh-singhdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-singhdev&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/adarsh-singhdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=h-adarsh&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/adarsh-singhdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-singhdev&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/adarsh-singhdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-adarsh&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
