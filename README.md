@@ -2,8 +2,6 @@
 
 **Software Engineer | AI & Security**
 
-Building resilient backend architectures, human-in-the-loop security tooling, and autonomous AI agents. 
-
 🌐 [Portfolio](https://h-adarsh.pages.dev) • 💼 [LinkedIn](https://www.linkedin.com/in/h-adarsh/) • 📬 [Email](mailto:adarsh042021@outlook.com)
 
 ---
