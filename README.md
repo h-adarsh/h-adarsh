@@ -11,8 +11,8 @@
   </p>
 
   <p align="center">
-    <a href="https://adarshsinghdev.in"><img src="https://img.shields.io/badge/Portfolio-adarshsinghdev.in-0891b2?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/h-adarsh/"><img src="https://img.shields.io/badge/LinkedIn-Adarsh%20Singh-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://h-adarsh.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-h--adarsh.vercel.app-0891b2?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/h-adarsh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Adarsh%20Singh-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:adarsh042021@outlook.com"><img src="https://img.shields.io/badge/Email-adarsh042021%40outlook.com-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email" /></a>
   </p>
 
@@ -108,18 +108,12 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <a href="https://github.com/adarshsingh-1">
-    <img src="https://github-readme-stats.vercel.app/api?username=adarshsingh-1&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" height="165" />
-  </a>
-  <a href="https://github.com/adarshsingh-1">
-    <img src="https://streak-stats.demolab.com/?user=adarshsingh-1&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" height="165" />
-  </a>
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=h-adarsh&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=h-adarsh&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" height="165" />
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://github.com/adarshsingh-1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshsingh-1&langs_count=8&layout=compact&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=h-adarsh&langs_count=8&layout=compact&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Top Languages" />
 </div>
