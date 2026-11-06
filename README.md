@@ -108,12 +108,5 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=h-adarsh&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=h-adarsh&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" height="165" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=h-adarsh&langs_count=8&layout=compact&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=h-adarsh&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
 </div>
